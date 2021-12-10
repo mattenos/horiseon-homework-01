@@ -28,8 +28,6 @@ p {
     background-color: #2589bd;
 }
 
-/* Consolodated the classes of .benefit-Lead, Brand, and Cost into .benefits-aside */
-
 .benefit-aside {
     margin-bottom: 32px;
     color: #ffffff;
@@ -62,7 +60,6 @@ p {
     margin-left: 25px;
 }
 
-/* Can we do anything with header footer?? */
 .footer {
     padding: 30px;
     clear: both;
@@ -116,7 +113,6 @@ p {
     background-position: center;
 }
 
-/* Consolidated the three marketing classes into one. */
 .marketing {
     margin-bottom: 20px;
     padding: 50px;
